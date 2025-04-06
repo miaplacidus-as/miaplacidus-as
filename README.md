@@ -2,40 +2,42 @@
 **miaplacidus-as/miaplacidus-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi 👋, Everyone! <img align="right" src="https://komarev.com/ghpvc/?username=miaplacidus-as&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Andrew" />
+### Hi 👋, Everyone!
 
-<div align="left">
-    <a href="https://github.com/miaplacidus-as?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miaplacidus-as"/></a>
-    <a href="https://github.com/miaplacidus-as?tab=repositories&sort=stargazers">
-        <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/miaplacidus-as"/></a>
-    <a href="https://github.com/miaplacidus-as">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/miaplacidus-as?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
+<p align="left">
+  <a href="https://github.com/miaplacidus-as?tab=repositories&sort=stargazers">
+    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miaplacidus-as"/></a>
+  <a href="https://github.com/miaplacidus-as?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/miaplacidus-as?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ---
 
 ### 🌱 I'm Full-Stack Developer
 
-- 📍 I’m from **Ukraine**
-- 💻 **5+** years experience in **Web Development**
-- 📝 Write articles on [**dev.to**](https://dev.to/betelgeuseas)
-- 💠 Develop **Open / Closed Source Full-Stack Application**
+- 💻 I'm a **Full Stack Web Developer**
+- 💠 Develop **Open / Closed Source** Applications
 - 🚀 Create [**Browser Extensions**](https://extensions-site.vercel.app/#projects)
+- 📝 Write articles on [**dev.to**](https://dev.to/betelgeuseas)
+- 🎓 B.Sc. in **Computer Science** 2019
 - ⚡ You can check out my website [**me-dev**](https://miaplacidus-as.github.io/me-dev/)
-- 📫 How to reach me `cepheus.as@gmail.com`
 
-### 🤝 Connect with me
+### 🤝 Connect
 
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/betelgeuse.as/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/betelgeuse-as/)
 
-<!--
-### 🍻 Support the channel:
 
-[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />](https://)
-[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=052D46" />](https://)
--->
+### ❤️ Support
+
+<!-- Buy Me a Coffee Readme Badges - https://github.com/rifatbhuiya/buymeacoffee-readme.md-badges -->
+<a href="https://www.buymeacoffee.com/betelgeuseo" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JoQ1MeS.md.png"  alt="buymeacoffee" style="width: 114px;">
+</a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=327N24D6QDLVC" target="_blank" title="paypal">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal" style="width: 114px;">
+</a>
 
 ---
 
@@ -122,8 +124,8 @@
 ### 🚀 Top Repository
 
 <p align="left">
-  <a href="https://github.com/miaplacidus-as/js-algorithms-data">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaplacidus-as&repo=js-algorithms-data&theme=vue-dark&hide_border=true" height="185">
+  <a href="https://github.com/miaplacidus-as/awesome-web-development">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaplacidus-as&repo=awesome-web-development&theme=vue-dark&hide_border=true" height="185">
   </a>
 </p>
 --->
